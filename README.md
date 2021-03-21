@@ -33,5 +33,6 @@ una aplicación Android de manera simple y fácil.
 
 Esto es un ejemplo pero, en proyectos profesionales la carga de datos pueden ser
 objetos, clases, listas o diferentes estructuras de datos dependiendo de cada
-desarrollo.
+desarrollo. Lo importante de aprender a utilizar el widget ListView es en la clase ArrayAdapter,
+que es la encargada de recibir la información y adapatarla al layout que hemos establecido.
 
